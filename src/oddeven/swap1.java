@@ -2,7 +2,7 @@ package oddeven;
 
 import java.util.Scanner;
 
-public class swap {
+public class swap1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
